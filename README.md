@@ -9,7 +9,7 @@ In order to change the styling of your status.cafe page, you need to go to your 
 
 *The default style.css from the cafe is located at https://status.cafe/assets/style.css for reference, so you can override anything below.*
 
-````
+```
 <style>
 
 /*Importing a custom font*/
