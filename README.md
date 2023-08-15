@@ -23,7 +23,7 @@ nav {
 
 /*main body styling*/
 body {
-	background-image: url("https://cdn.some.pics/binarydigit/64db7ba89f8a7.png");
+	background-image: url("https://pathtoimagefile.png");
 	background-repeat: repeat;
 	font-family: 'Azeret Mono', monospace;
  	background-color: #fff0f6;
