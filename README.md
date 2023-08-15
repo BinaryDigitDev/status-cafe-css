@@ -2,15 +2,15 @@
 
 ## A fully commented css template for status.cafe profiles
 
-In order to change the styling of your status.cafe page, you need to go to your settings, and in the "About" section, add a <style> </style> tag under your profile:
+In order to change the styling of your status.cafe page, you need to go to your settings, and in the "About" section, add a ```<style> </style>``` tag under your profile:
 
 
 ![](/profile-ss.png)
 
 *The default style.css from the cafe is located at https://status.cafe/assets/style.css for reference, so you can override anything below.*
 
+````
 <style>
-
 
 /*Importing a custom font*/
 @import url(https://fonts.bunny.net/css?family=azeret-mono:400);
@@ -45,5 +45,5 @@ h2 {
 	color: #33b0d6;;
 }
 
-
 </style>
+```
